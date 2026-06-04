@@ -1,0 +1,6 @@
+export const CameraTransitionState = {
+  STACK: 'STACK',
+  TRANSITION_TO_PURGE: 'TRANSITION_TO_PURGE',
+  PURGE: 'PURGE',
+  TRANSITION_TO_STACK: 'TRANSITION_TO_STACK'
+};
